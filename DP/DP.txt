@@ -1,0 +1,46 @@
+Introduction to Dynamic Programming
+Longest Common Subsequence | Introduction & LCS Length
+Longest Common Subsequence | Space optimized version
+Longest Common Subsequence of K-sequences
+Longest Common Subsequence | Finding all LCS
+Longest Common Substring problem
+Longest Palindromic Subsequence using Dynamic Programming
+Longest Repeated Subsequence problem
+Implement Diff Utility
+Shortest Common Supersequence | Introduction & SCS Length
+Shortest Common Supersequence | Finding all SCS
+Shortest Common Supersequence | Using LCS
+Longest Increasing Subsequence using Dynamic Programming
+Longest Bitonic Subsequence
+Increasing Subsequence with Maximum Sum
+The Levenshtein distance (Edit distance) problem
+Find size of largest square sub-matrix of 1’s present in given binary matrix
+Matrix Chain Multiplication
+Find the minimum cost to reach last cell of the matrix from its first cell
+Find longest sequence formed by adjacent numbers in the matrix
+Count number of paths in a matrix with given cost to reach destination cell
+0-1 Knapsack problem
+Maximize value of the expression
+Partition problem
+Subset sum problem
+Minimum Sum Partition problem
+Find all N-digit binary strings without any consecutive 1’s
+Rod Cutting
+Maximum Product Rod Cutting
+Coin change-making problem (unlimited supply of coins)
+Coin Change Problem – Find total number of ways to get the denomination of coins
+Longest alternating subsequence
+Count number of times a pattern appears in given string as a subsequence
+Collect maximum points in a matrix by satisfying given constraints
+Count total possible combinations of N-digit numbers in a mobile keypad
+Find optimal cost to construct binary search tree
+Word Break Problem
+Wildcard Pattern Matching
+Find probability that a person is alive after taking N steps on the island
+Calculate sum of all elements in a sub-matrix in constant time
+Find maximum sum K x K sub-matrix in a given M x N matrix
+Find maximum sum submatrix present in a given matrix
+Find maximum sum of subsequence with no adjacent elements
+Maximum subarray problem (Kadane’s algorithm)
+Single-Source Shortest Paths – Bellman Ford Algorithm
+All-Pairs Shortest Paths – Floyd Warshall Algorithm
